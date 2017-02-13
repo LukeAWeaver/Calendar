@@ -13,7 +13,7 @@ import java.sql.SQLException;
 public class DBManager {
 	private final String URL = "jdbc:mysql://mysql.eecs.ku.edu:3306/layer";
 	private final String USER = "layer";
-	private final String PASS = "loganayer";
+	private final String PASS = "layer";
 
 	// user for database
 	private String dbUser;
