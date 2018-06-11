@@ -11,9 +11,9 @@ import java.sql.SQLException;
  * DBManager handles reading and storing information in the database.
  */
 public class DBManager {
-	private final String URL = "jdbc:mysql://mysql.eecs.ku.edu:3306/layer";
-	private final String USER = "layer";
-	private final String PASS = "layer";
+	private final String URL = "jdbc:mysql://mysql.eecs.ku.edu:3306/lweaver";
+	private final String USER = "lweaver";
+	private final String PASS = "Password123!";
 
 	// user for database
 	private String dbUser;
