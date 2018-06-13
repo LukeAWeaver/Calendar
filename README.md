@@ -13,5 +13,5 @@ sh ./run.sh
 To run this project on Windows, type this command into the command prompt:
 
 ```
-./run.bat
+./run.bat or run.bat
 ```
